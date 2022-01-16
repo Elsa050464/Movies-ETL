@@ -3,10 +3,10 @@ The purpose of this project is to introduce us to the EXTRACT, TRANSFORM, and LO
 ## Overview
 Create an ETL pipeline using Jupyter Notebooks and PostgreSQL from raw data to SQL database.
 ### Extract: 
-### •	Data is transformed into Pandas data frames.
-### •	Data is extracted from the website in JSON and CSV formats.
-### •	JSON file requires -Wikipedia
-### •	CSV files Kaggle: - 2 files (format: .csv)
+#### •	Data is transformed into Pandas data frames.
+#### •	Data is extracted from the website in JSON and CSV formats.
+#### •	JSON file requires -Wikipedia
+#### •	CSV files Kaggle: - 2 files (format: .csv)
 o	a metadata file from The Movie Database containing movie details with 45.5 thousand entries. (File size: 34.4MB)
 o	a dataset from MovieLens containing over 26 million movie ratings/review. (File size: 709.6MB)
 ###  Transform:
